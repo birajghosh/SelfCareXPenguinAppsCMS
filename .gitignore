@@ -1,0 +1,12 @@
+node_modules
+runCommands
+
+/node_modules
+/runCommands
+package-lock.json
+/node_modules/*
+/runCommands/*
+
+.DS_Store
+
+package-lock.json
